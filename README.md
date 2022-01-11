@@ -15,5 +15,8 @@ This repo contains all my Web Development related practice codes.
     - `<p align="right"> ... </p>` - right alignment of the contents of paragraph.
     - `<p align="justify"> ... </p>` - jusified alignment of the contents of paragraph.
 - `<br>` or `<br />` - line break, single line space.
-- `<strong> ... </strong>` - for bold fonts
-- `<em> ... </em>` - for emphasizing or italics font
+- `<strong> ... </strong>` - for bold fonts.
+- `<em> ... </em>` - for emphasizing or italics font.
+- `<ol> ... </ol>` - for ordered list.
+- `<ul> ... </ul>` - for unordered list.
+- `<li> ... </li>` - list items, to be written eiter inside `<ol> ... </ol>` or `<ul> ... </ul>` tags.
