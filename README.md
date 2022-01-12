@@ -20,3 +20,7 @@ This repo contains all my Web Development related practice codes.
 - `<ol> ... </ol>` - for ordered list.
 - `<ul> ... </ul>` - for unordered list.
 - `<li> ... </li>` - list items, to be written eiter inside `<ol> ... </ol>` or `<ul> ... </ul>` tags.
+- `<img>` - used for inserting image in web page.
+    -  `<img src="path to image">` - syntax for adding image.
+    -  `<img src="path to image" alt="alternate desc.">` - add alternate description which will be shown in case image is not accessible.
+    -  `<img src="path to image" width="400" height="450">` - to customize the width & height of the image.
