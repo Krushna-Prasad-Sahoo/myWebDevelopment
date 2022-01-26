@@ -26,3 +26,6 @@ This repo contains all my Web Development related practice codes.
     -  `<img src="path to image" width="400" height="450">` - to customize the width & height of the image.
 - `<table> ... </table>` - used for creating a table in web page.
 - `<caption> ... </caption>` - used for giving heading of the table.
+- `<tr> ... </tr>` - used for the rows in the table.
+- `<th> ... </th>` - used for column heading in the table.
+- `<td> ... </td>` - used for putting data in cells in a table.
