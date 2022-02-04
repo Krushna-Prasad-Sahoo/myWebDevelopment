@@ -30,3 +30,9 @@ This repo contains all my Web Development related practice codes.
 - `<th> ... </th>` - used for column heading in the table, to be used inside `<table> ... </table>` tag.
 - `<td> ... </td>` - used for putting data in cells in a table, to be used inside `<table> ... </table>` tag.
 - `<a> ... </a>` - Anchor tag. User for hyper link or reference(href).
+    - `<a href="link">Open Link</a>` - Opens the link in same page itself.
+    - `<a href="link" target="_blank">Open Link</a>` - Opens the link in another tab.
+    - `<a href="tel:+919876543210">Call me.</a>` - Click to call the number.
+    - `<a href="mailto:example@yahoo.com">Mail me</a>` - Click to mail.
+    - `<a href="#block">Jump</a>` - Go to specific part of the same page itself, has some prerequisite.(Will be updated later)
+
