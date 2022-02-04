@@ -29,3 +29,4 @@ This repo contains all my Web Development related practice codes.
 - `<tr> ... </tr>` - used for the rows in the table, to be used inside `<table> ... </table>` tag.
 - `<th> ... </th>` - used for column heading in the table, to be used inside `<table> ... </table>` tag.
 - `<td> ... </td>` - used for putting data in cells in a table, to be used inside `<table> ... </table>` tag.
+- `<a> ... </a>` - Anchor tag. User for hyper link or reference(href).
