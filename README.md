@@ -36,3 +36,11 @@ This repo contains all my Web Development related practice codes.
     - `<a href="mailto:example@yahoo.com">Mail me</a>` - Click to mail.
     - `<a href="#block">Jump</a>` - Go to specific part of the same page itself, has some prerequisite.(Will be updated later)
 
+
+
+
+
+<br />
+
+![GitHub last commit](https://img.shields.io/github/last-commit/Krushna-Prasad-Sahoo/myWebDevelopment?style=for-the-badge)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Krushna-Prasad-Sahoo/myWebDevelopment?style=for-the-badge)
