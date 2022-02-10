@@ -36,6 +36,15 @@ This repo contains all my Web Development related practice codes.
     - `<a href="tel:+919876543210">Call me.</a>` - Click to call the number.
     - `<a href="mailto:example@yahoo.com">Mail me</a>` - Click to mail.
     - `<a href="#block">Jump</a>` - Go to specific part of the same page itself, has some prerequisite.(Will be updated later)
+- Special symbols - Either use the following code or copy from internet.
+    - Use `&nbsp;` for Non breaking space (&nbsp;)
+    - Use `&pound;` for pound (&pound;)
+    - Use `&euro;` for euro (&euro;)
+    - Use `&sect;` for section (&sect;)
+    - Use `&copy;` for copyright (&copy;)
+    - Use `&reg;` for registered (&reg;)
+    - Use `&trade;` for trademark (&trade;)
+    - Use `&deg;` for degree (&deg;)
 
 
 
