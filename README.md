@@ -8,6 +8,7 @@ This repo contains all my Web Development related practice codes.
 - `<body> ... </body>` - defines the html document's body.
 - `<title> ... </title>` - allows you to give a web page a title, placed inside `<head> ... </head>` of html document.
 - `<meta charset="utf-8">` - specifies which character set a website is written with,  placed inside `<head> ... </head>` of html document.
+- `UTF-8` - UTF stands for <b>Unicode Transformation Format</b>. Every character is encoded & can check more details [here](https://unicode-table.com/en/).
 - `<h1> ... </h1>` - html heading tag (goes from **h1-largest** till **h6-smallest**).
 - `<p> ... </p>` - for paragraph inside html body.
     - `<p align="center"> ... </p>` - center alignment of the contents of paragraph.
