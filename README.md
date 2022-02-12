@@ -45,12 +45,14 @@ This repo contains all my Web Development related practice codes.
     - Use `&reg;` for registered (&reg;)
     - Use `&trade;` for trademark (&trade;)
     - Use `&deg;` for degree (&deg;)
-
+- `<video controls> <source src="path">  </video>` - used for insterting video in the web page.
+- `<audio controls> <source src="path">  </audio>` - used for insterting audio in the web page.
 
 
 
 
 <br />
+
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Krushna-Prasad-Sahoo/myWebDevelopment?style=for-the-badge)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Krushna-Prasad-Sahoo/myWebDevelopment?style=for-the-badge)
