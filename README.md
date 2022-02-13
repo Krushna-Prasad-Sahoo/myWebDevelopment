@@ -54,6 +54,11 @@ This repo contains all my Web Development related practice codes.
     - `src` - the url of the video to embed.
     - `width` - the width of the video's display area.
 - `<audio controls> <source src="path">  </audio>` - used for insterting audio in the web page.
+    - `autoplay` - if specified, the audio will automatically begin playback as soon as it can do so, without waiting for the entire audio file to finish downloading.
+    - `controls` - if this attribute is present, the browser will offer controls to allow the user to control audio playback, including volume, seeking and pause/resume playback.
+    - `loop` - if specified, the audio player will automatically seek back to the start upon reaching the end of the audio.
+    - `preload` - this enumerated attribute is intended to provide a hint to the browser about what the author thinks will lead to the best user experience.
+    - `src` - The url of the audio embed.
 
 
 
