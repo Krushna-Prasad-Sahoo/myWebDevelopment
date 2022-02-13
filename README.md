@@ -46,6 +46,13 @@ This repo contains all my Web Development related practice codes.
     - Use `&trade;` for trademark (&trade;)
     - Use `&deg;` for degree (&deg;)
 - `<video controls> <source src="path">  </video>` - used for insterting video in the web page.
+    - `autoplay` - if mentioned, the video automatically begins to play back as soon as it can do so without stopping to finish loading the data. 
+    - `controls` - if mentioned, the browser will offer controls to allow the user to control video playback, including volume, seeking, and pause/resume playback.
+    - `height` - the height of the video's display area.
+    - `loop` - if specified, the browser will automatically seek back to start upon reaching the end of the video.
+    - `poster` - A url for an image to be shown while the video video is downloading.
+    - `src` - the url of the video to embed.
+    - `width` - the width of the video's display area.
 - `<audio controls> <source src="path">  </audio>` - used for insterting audio in the web page.
 
 
