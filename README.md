@@ -60,7 +60,12 @@ This repo contains all my Web Development related practice codes.
     - `preload` - this enumerated attribute is intended to provide a hint to the browser about what the author thinks will lead to the best user experience.
     - `src` - The url of the audio embed.
 
-- `<form> ... </form>` - The form tag is used to collect user input. It can have multiple attributes as following.
+- `<form> ... </form>` - The form tag is used to collect user input. It can have multiple tags inside it as following.
+    - `<input type="text">` - Displays a single-line text input field
+    - `<input type="radio">` - Displays a radio button (for selecting one of many choices)
+    - `<input type="checkbox">` - Displays a checkbox (for selecting zero or more of many choices)
+    - `<input type="submit">` - Displays a submit button (for submitting the form)
+    - `<input type="button">` - Displays a clickable button
 
 
 
