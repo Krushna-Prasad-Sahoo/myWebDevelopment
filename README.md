@@ -1,7 +1,9 @@
 # Web Development
 This repo contains all my Web Development related practice codes.
-
 ### List & description of tags or key words I have learnt so far ...
+
+---
+<u><h3>Hyper Text Markup Language (HTML)</h3></u>
 
 - `<!DOCTYPE html> ... </html>` - description for browser that the contents are in HTML5, also start & end for a web page. 
 - `<head> ... </head>` - define the head portion of the document which contains information related to the document.
@@ -69,6 +71,8 @@ This repo contains all my Web Development related practice codes.
     - `<input type="submit">` - Displays a submit button (for submitting the form)
     - `<input type="button">` - Displays a clickable button
 
+---
+<u><h3>Cascading Style Sheets (CSS)</h3></u>
 
 
 
