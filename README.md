@@ -74,6 +74,10 @@ This repo contains all my Web Development related practice codes.
 ---
 <u><h3>Cascading Style Sheets (CSS)</h3></u>
 
+- CSS can be implemented into HTML in 3 ways :
+    - Inline : need to add the style attribute to HTML tag (eg: `<h1 style="color:white;">CSS</h1>`)
+    - Internal : need to add <style> tag inside <head> tags in the HTML page.
+    - External : need to add an another page of css & link it with HTML page.
 
 
 <br />
