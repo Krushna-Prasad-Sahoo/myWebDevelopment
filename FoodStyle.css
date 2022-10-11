@@ -1,0 +1,232 @@
+/* css reset */
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+/* CSS Variable */
+:root{
+    --navbar-height: 59px;
+}
+
+/* Navigation Bar */
+#navbar{
+    display: flex;
+    align-items: center;
+    position: sticky;
+    top: 0px;
+    left: 0px;
+}
+
+#navbar::before{
+    content: "";
+    background-color: rgb(78, 67, 47);
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    opacity: 0.2;
+}
+/* #navbar{
+} */
+/*Navigation Bar: Logo and Image */
+#logo img{
+    height: 100px;
+    margin: 5px;
+    padding: 5px;
+    
+}
+
+#logo img:hover{
+    transform: rotate(45deg);
+}
+
+
+/*Navigation Bar: List Item styling */
+
+#navbar ul{
+    display: flex;
+}
+
+
+#navbar ul li{
+    list-style: none;
+    font-size: 1.3rem;
+}
+
+#navbar ul li a:hover{
+    background-color: blanchedalmond;
+    color: blue;
+}
+
+#navbar ul li a{
+    margin: 3px 23px;
+    padding: 3px 10px;
+    text-decoration: none;
+    border-radius: 16px;
+    font-size: 20px;
+    color:rgb(92, 141, 46);
+    font-weight: bold;
+    font-family: 'Mochiy Pop P One', sans-serif;
+    background-color: ghostwhite;
+}
+
+/* Home section */
+
+#home{
+    display: flex;
+    flex-direction: column;
+    padding:3px 200px;
+    justify-content: center;
+    align-items: center;
+    height: 587px;
+}
+#home::before{
+    content: "";
+    background:url('./Food.jpg') no-repeat center center/cover;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    opacity: 0.7;
+}
+
+/* Services Section */
+
+#services{
+    margin: 12px;
+    display: flex;
+}
+
+#services .box{
+    border: 2px solid salmon;
+    /* display: flex; */
+    padding: 22px;
+    margin: 9px;
+    border-radius: 8px;
+    background-color: seashell;
+}
+
+#services .box img{
+    height: 160px;
+    display: block;
+    margin: auto;
+}
+
+/* Client Section */
+
+.client-item img{
+    height: 180px;
+}
+
+#clients{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#client-section{
+    display: flex;
+    flex-direction: column;
+    padding:3px 200px;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+}
+
+.client-item{
+    padding: 22px;
+    margin: 22px;
+}
+
+#client-section::before{
+    content: "";
+    background:url('./clients.jpg') no-repeat center center/cover;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    opacity: 0.5;
+}
+
+/* #client-section h1{
+    font-size: 35px;
+} */
+
+/* Contact Section */
+#contact{
+    position: relative;
+}
+
+#contact::before{
+    content: "";
+    background:url('./Contactus.jpg') no-repeat center center/cover;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    opacity: 0.5;
+}
+
+#contact-box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 34px;
+}
+
+#contact-box input,
+#contact-box textarea{
+    width: 100%;
+    padding:0.5rem;
+    border-radius: 8px;
+}
+
+/* #contact-box form{
+    
+} */
+/* Utility Class */
+
+
+
+#home h1{
+    /* color: black; */
+    text-align: center;
+}
+#home p{
+    color: black;
+    text-align: center;
+    font-size: 1rem;
+    
+}
+/* Order Button */
+.btn{
+    margin: 12px;
+    padding: 12px;
+    border: burlywood;
+    border-radius: 12px;
+    font-size: 1.2rem;
+    cursor: pointer;
+    box-shadow: 4px 4px rgb(241, 190, 124);
+    font-family: 'Mochiy Pop P One', sans-serif;
+}
+
+.btn:hover{
+    background-color: rgb(104, 161, 51);
+}
+
+.h-primary{
+    font-family: 'Mochiy Pop P One', sans-serif;
+    font-size: 1.5rem;
+    padding:12px;
+    color: rgb(92, 141, 46);
+    background-color: ghostwhite;
+    border-radius: 16px;
+}
+.center{
+    text-align: center;
+}
